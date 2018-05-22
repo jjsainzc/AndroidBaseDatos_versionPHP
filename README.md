@@ -5,9 +5,9 @@ Version RESTfull creada en PHP con el MicroFramework SLIM 3
 Notas y caracteristicas:
 
 - Los paquetes estan instalados con el composer, en el directorio vendor
-	# composer require slim/slim
-    # composer require illuminate/database
-    # composer require tuupola/slim-jwt-auth
+	<b> composer require slim/slim </b>
+    <b> composer require illuminate/database </b>
+    <b> composer require tuupola/slim-jwt-auth </b>
 
 - Establece una ruta de lectura y esta protegida con JWT.
 
@@ -22,8 +22,8 @@ Notas y caracteristicas:
 
 Es usada por el ejemplo ManejoPersona
 
-Referencias:
-https://www.slimframework.com/docs/v3/start/installation.html
-https://jwt.io/
-https://github.com/tuupola/slim-jwt-auth
-https://laravel.com/docs/5.0/eloquent
+Referencias:<br>
+https://www.slimframework.com/docs/v3/start/installation.html<br>
+https://jwt.io/<br>
+https://github.com/tuupola/slim-jwt-auth<br>
+https://laravel.com/docs/5.0/eloquent<br>
