@@ -36,7 +36,6 @@ class DataController extends Controller {
 		}
 		return $response->withStatus(401);        					
 	} 
-	
 }
 
 
