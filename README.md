@@ -4,7 +4,7 @@ Version RESTfull creada en PHP con el MicroFramework SLIM 3
 
 Notas y caracteristicas:
 
-- Los paquetes estan instalados con el composer, en el directorio vendor
+- Los paquetes estan instalados con el composer, en el directorio vendor<br>
 	<b> composer require slim/slim </b><br>
     <b> composer require illuminate/database </b><br>
     <b> composer require tuupola/slim-jwt-auth </b><br>
